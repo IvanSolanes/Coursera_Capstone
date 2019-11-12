@@ -1,2 +1,2 @@
 # Coursera_Capstone
-In this repository you will an example of python code
+In this repository you will see an example of python code
